@@ -2,7 +2,7 @@
 
 An end-to-end machine learning project that detects fraudulent credit card transactions in highly imbalanced data. It uses time-aware validation, a cost-based decision threshold and SHAP explanations, and is served through a free, public Streamlit website.
 
-**Live demo:** [YOUR-APP-LINK.streamlit.app]  ·  **Author:** [Your Name]
+**Live demo:** [https://real-time-fraud-detector.streamlit.app/]  ·  **Author:** [Ansh Tomar]
 
 ## Highlights
 
@@ -114,4 +114,4 @@ Python, pandas, NumPy, scikit-learn, imbalanced-learn, XGBoost, LightGBM, SHAP, 
 
 ## Contact
 
-[Your Name] · [LinkedIn or email]
+[Ansh Tomar] · [https://www.linkedin.com/in/ansh-tomar/]
