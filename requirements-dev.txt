@@ -1,0 +1,30 @@
+# Data handling
+pandas
+numpy
+scipy
+
+# Charts
+matplotlib
+seaborn
+
+# Modeling
+scikit-learn
+xgboost
+lightgbm
+imbalanced-learn
+
+# Explainability
+shap
+
+# Saving the model
+joblib
+
+# User interface
+streamlit
+
+# Testing
+pytest
+
+# Notebooks
+jupyter
+ipykernel
